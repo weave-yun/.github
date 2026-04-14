@@ -10,15 +10,15 @@
 
 ## 📂 This Repository
 
-This is the [`.github`](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) repository for the **Weave Yun** organization. It contains:
+This is the [`.github`](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) repository for the **Weave Yun** organization. It is intended to serve as the central place for shared organization-wide resources, including:
 
-- **Community health files** — default `CONTRIBUTING`, `CODE_OF_CONDUCT`, and other guidelines that apply across all repositories in this org.
-- **Issue & PR templates** — standardized templates to streamline contributions.
-- **Reusable workflows** — shared GitHub Actions workflows used by our projects.
+- **Community health files** — default `CONTRIBUTING`, `CODE_OF_CONDUCT`, and other guidelines that can apply across repositories in this org.
+- **Issue & PR templates** — standardized templates to help streamline contributions as they are added.
+- **Reusable workflows** — shared GitHub Actions workflows for use across our projects.
 
 ## 🤝 Contributing
 
-We welcome contributions! Please check the individual project repositories for contribution guidelines, or refer to the organization-wide `CONTRIBUTING.md` file in this repository.
+We welcome contributions! Please check the individual project repositories for current contribution guidelines. As this `.github` repository evolves, organization-wide guidance may be added here as well.
 
 ## 📬 Get in Touch
 
