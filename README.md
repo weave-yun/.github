@@ -1,6 +1,6 @@
-# Welcome to weave-yun 👋
+# Welcome to Weave Yun 👋
 
-**weave-yun** is an open-source organization dedicated to building tools, libraries, and workflows that help developers weave together modern software solutions with elegance and efficiency.
+**Weave Yun** is an open-source organization dedicated to building tools, libraries, and workflows that help developers weave together modern software solutions with elegance and efficiency.
 
 ## 🌟 What We Do
 
@@ -10,7 +10,7 @@
 
 ## 📂 This Repository
 
-This is the [`.github`](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) repository for the **weave-yun** organization. It contains:
+This is the [`.github`](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) repository for the **Weave Yun** organization. It contains:
 
 - **Community health files** — default `CONTRIBUTING`, `CODE_OF_CONDUCT`, and other guidelines that apply across all repositories in this org.
 - **Issue & PR templates** — standardized templates to streamline contributions.
